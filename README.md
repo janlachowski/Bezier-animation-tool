@@ -32,7 +32,8 @@ This project is a Bézier curve-based animation editor that I developed as part 
 
 ## Award-Winning Animation
 
-The included animation in `saved_animations/beer_clang` which I made using this tool only, is the one that **won first place** in the Numerical Analysis course contest. It features a smooth Bézier-crafted beer mug illustration and a changing bottom text - an inside joke among students and faculty :))
+The included animation in `saved_animations/beer_clang` which I made using this tool only, is the one that **won first place** in the Numerical Analysis course contest (yes, it's a university inside joke 🍺):
+
 ![beer_clang](saved_animations/beer_clang/animation.gif)
 
 Feel free to move its contents to the `animation/` folder to explore it, modify it, or use it as a starting point for your own creations!
