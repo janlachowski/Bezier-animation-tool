@@ -63,7 +63,8 @@ python main.py
 ### Export
 After creating frames and clicking "End", the animation is rendered and exported to:
 - `animation/animation.gif`
-  or
+
+    or
 - `animation/animation.mp4`
 
 ## Technical Details
@@ -73,4 +74,4 @@ After creating frames and clicking "End", the animation is rendered and exported
 
 ---
 
-Enjoy exploring Bézier curves — and feel free to extend or remix the tool!
+Enjoy exploring Bézier curves - and feel free to extend or remix the tool!
